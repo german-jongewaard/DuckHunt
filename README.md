@@ -16,6 +16,9 @@ Features:
 ![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/5.png)
 ![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/6.png)
 
+Firebase conexion:
+![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/firebaseduck.png)
+
 
 
 
