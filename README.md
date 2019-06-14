@@ -1,17 +1,21 @@
 # DuckHunt
 Duck Hunt is a shooter game in which the objective is to shoot moving targets on the mobile screen in mid-flight. The game is played from a first-person perspective, which the player presses with his finger and shoots the screen.
 
-[![Build Status](https://travis-ci.org/retrograde/retrograde-android.svg?branch=fix-travis)](https://travis-ci.org/retrograde/retrograde-android)
-
 Features:
-- Designed and built for Android TV, looks and feels at home on your device.
-- Works with most bluetooth game controllers without any configuration.
-- Automatically indexes your game library and downloads game titles and artwork.
-- Play games from Google Drive, no need to worry about limited storage space.
-- One app for multiple retro game systems, no additional downloads needed!
+- Designed and built for Android, it looks and feels at home on your device.
+- It connects with the Firebase service and stores the player's name and score, and then shows it in a ranking.
 
+## Screenshots of the game
 
 ![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/1.png)
+![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/2.png)
+![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/3.png)
+![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/4.png)
+![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/5.png)
+![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/6.png)
+
+
+
 
 ## Open-Source Libraries
 
