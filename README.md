@@ -9,8 +9,10 @@ Features:
 
 ![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/1.png)
 ![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/2.png)
+
 ![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/3.png)
 ![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/4.png)
+
 ![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/5.png)
 ![Screenshot](https://github.com/german-jongewaard/DuckHunt/blob/master/app/src/main/6.png)
 
